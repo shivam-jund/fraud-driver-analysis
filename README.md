@@ -72,3 +72,6 @@ jupyter notebook notebooks/fraud_driver_analysis.ipynb
 
 Simulated data is the big one — see the notebook's closing section for this plus
 class-imbalance handling, validation approach, and other caveats in full.
+
+## Coursera capstone project for Supervised Machine Learning 
+
